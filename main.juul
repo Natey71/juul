@@ -1,0 +1,11 @@
+func greet(name) {
+    print "Hello, " + name;
+}
+greet("World");
+x = 10;
+x = 8;
+if (x == 10) {
+    print "x is ten";
+} else {
+    print "x is not ten - " + x;
+}
